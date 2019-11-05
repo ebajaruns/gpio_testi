@@ -1,1 +1,3 @@
 te ir parbaude
+
+pármainjas
