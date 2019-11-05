@@ -12,6 +12,7 @@ try:
 		time.sleep(1)
 		print ('LED off')
 		GPIO.output(18,GPIO.LOW)
+        time.sleep(1)
 		counter = counter + 1
 except KeyboardInterrupt:
 	print ('\n'), counter
